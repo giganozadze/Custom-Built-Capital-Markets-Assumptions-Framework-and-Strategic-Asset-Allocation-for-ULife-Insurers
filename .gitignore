@@ -1,0 +1,21 @@
+# Temporary Office files
+~$*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.ipynb_checkpoints/
+
+# Excel temporary files
+~*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
